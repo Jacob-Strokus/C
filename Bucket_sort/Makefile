@@ -4,7 +4,7 @@ CC = gcc
 
 CFLAGS = -Wall -g -std=c89 -D_XOPEN_SOURCE=700 -pedantic-errors
 
-TARGET = project3_jstrokus_003
+TARGET = bucket_sort
 
 LIBS = -lm
 
