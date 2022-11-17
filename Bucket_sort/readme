@@ -1,0 +1,3 @@
+C program to perform a bucket sort of values given at program execution.
+
+Usage: ./program_name <seed> <number of items> <lowest value> <largest value>
