@@ -1,0 +1,5 @@
+radix sort in C
+
+Usage: ./[program_name] [seed] [total_numbers_to_sort] [lowest_number] [highest_number]
+
+ie ./radix 1234 10 1  99
